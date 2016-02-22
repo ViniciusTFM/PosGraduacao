@@ -1,0 +1,39 @@
+.grid .row {
+	background-color: transparent;
+	border: 0;
+	height: 50px;
+	padding-right: 0;
+}
+
+.grid .row .col-md-3 {
+	min-height: 150px;
+}
+
+.grid .row .col-md-6 {
+	min-height: 300px;
+}
+
+input[type=text]{
+	width: 350px;
+}
+
+input[type=email]{
+	width: 350px;
+}
+
+p input[type=checkbox]{
+	margin: 5px;
+}
+
+#notific {
+	position:relative !important;
+	display: inline !important;;
+	top: 90px !important;
+}
+
+.logo img{
+	 max-width:60px;
+    max-height:60px;
+    width: auto;
+    height: auto;
+}

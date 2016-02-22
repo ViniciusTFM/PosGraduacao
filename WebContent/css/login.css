@@ -1,0 +1,49 @@
+html {
+	/* background: url(../img/fundo-azul.jpg) no-repeat center center fixed; */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	font-size: 16px;
+	background: transparent;
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 40px;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0),
+		rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+img {
+	width: 60px;
+}
+
+.panel-title {
+	padding-top: 10px;
+	vertical-align: middle;
+}
+
+.panel {
+	background-color: rgba(255, 255, 255, 0.3);
+	position: absolute;
+	left: 37%;
+	right: 30%;
+	top: 100px;
+}
+
+.margin-base-vertical {
+	margin: 40px 0;
+}
+	
+a {
+	font-weight: bold;
+}

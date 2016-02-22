@@ -1,0 +1,558 @@
+explorar;1;Análise Estratégica de Redes Sociais/
+auto;1;Análise Estratégica de Redes Sociais/
+processos;2;Arquitetura de Software Distribuido/processos;2;Business Intelligence/processos;2;Engenharia de Software/processos;1;Gerência de Projetos de Software/processos;2;Gestão de Tecnologia da Informação/processos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+especialistas;1;Técnicas de Inteligência Computacional e suas Aplicações/
+engenheiras;1;Técnicas de Inteligência Computacional e suas Aplicações/
+business;2;Business Intelligence/business;1;Engenharia de Software/business;1;Gestão de Tecnologia da Informação/
+tcpip;4;Redes de Computadores/tcpip;2;Sistemas de Telecomunicações/
+necessidades;1;Design de Interação/
+estratgica;1;Análise Estratégica de Redes Sociais/estratgica;1;Gerência de Projetos de Software/
+recomendao;1;Análise Estratégica de Redes Sociais/
+seguro;1;Arquitetura de Software Distribuido/seguro;1;Bancos de Dados/
+geoprocessamento;3;Geoprocessamento e Análise Espacial/
+gesto;1;Análise Estratégica de Redes Sociais/gesto;2;Business Intelligence/gesto;1;Design de Interação/gesto;1;Gerência de Projetos de Software/gesto;3;Gestão de Infraestrutura de TI/gesto;3;Gestão de Segurança da Informação/gesto;9;Gestão de Tecnologia da Informação/gesto;1;Redes de Computadores/
+geografia;1;Geoprocessamento e Análise Espacial/
+portadores;1;Geoprocessamento e Análise Espacial/
+arquitetura;18;Arquitetura de Software Distribuido/arquitetura;3;Bancos de Dados/arquitetura;1;Business Intelligence/arquitetura;3;Desenvolvimento de Aplicações para Dispositivos Móveis/arquitetura;2;Engenharia de Software/arquitetura;1;Geoprocessamento e Análise Espacial/arquitetura;1;Gestão de Infraestrutura de TI/arquitetura;2;Gestão de Segurança da Informação/arquitetura;1;Gestão de Tecnologia da Informação/arquitetura;2;Redes de Computadores/arquitetura;2;Sistemas de Telecomunicações/
+professores;1;Sistemas de Telecomunicações/
+aquisies;1;Gerência de Projetos de Software/
+parte;1;Análise Estratégica de Redes Sociais/
+conferindolhes;1;Sistemas de Telecomunicações/
+segura;1;Gestão de Tecnologia da Informação/
+server;1;Bancos de Dados/
+tecnolgica;1;Bancos de Dados/tecnolgica;1;Gestão de Segurança da Informação/
+objetos;1;Bancos de Dados/
+sensoriamento;1;Geoprocessamento e Análise Espacial/
+equipes;1;Gestão de Infraestrutura de TI/
+geral;1;Business Intelligence/
+regulao;1;Análise Estratégica de Redes Sociais/regulao;1;Sistemas de Telecomunicações/
+cincia;1;Arquitetura de Software Distribuido/cincia;2;Business Intelligence/cincia;2;Desenvolvimento de Aplicações para Dispositivos Móveis/cincia;1;Design de Interação/cincia;2;Engenharia de Software/cincia;1;Geoprocessamento e Análise Espacial/cincia;1;Gerência de Projetos de Software/cincia;1;Gestão de Tecnologia da Informação/cincia;1;Redes de Computadores/
+interveno;1;Geoprocessamento e Análise Espacial/
+diploma;1;Geoprocessamento e Análise Espacial/diploma;1;Gestão de Tecnologia da Informação/
+emergentes;1;Arquitetura de Software Distribuido/emergentes;1;Bancos de Dados/emergentes;1;Business Intelligence/emergentes;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+participantes;1;Arquitetura de Software Distribuido/participantes;2;Business Intelligence/participantes;1;Desenvolvimento de Aplicações para Dispositivos Móveis/participantes;1;Técnicas de Inteligência Computacional e suas Aplicações/
+engenharia;3;Arquitetura de Software Distribuido/engenharia;1;Bancos de Dados/engenharia;1;Business Intelligence/engenharia;2;Desenvolvimento de Aplicações para Dispositivos Móveis/engenharia;4;Engenharia de Software/engenharia;1;Geoprocessamento e Análise Espacial/engenharia;1;Gerência de Projetos de Software/engenharia;3;Sistemas de Telecomunicações/engenharia;1;Técnicas de Inteligência Computacional e suas Aplicações/
+diferentes;1;Técnicas de Inteligência Computacional e suas Aplicações/
+estratgias;1;Desenvolvimento de Aplicações para Dispositivos Móveis/estratgias;1;Geoprocessamento e Análise Espacial/
+continuidade;1;Gestão de Infraestrutura de TI/continuidade;1;Gestão de Segurança da Informação/
+tendncias;1;Análise Estratégica de Redes Sociais/
+neurais;1;Técnicas de Inteligência Computacional e suas Aplicações/
+gerentes;2;Arquitetura de Software Distribuido/gerentes;2;Business Intelligence/gerentes;1;Desenvolvimento de Aplicações para Dispositivos Móveis/gerentes;1;Engenharia de Software/gerentes;1;Gerência de Projetos de Software/gerentes;1;Gestão de Segurança da Informação/
+gerenciais;1;Gerência de Projetos de Software/
+atuar;1;Análise Estratégica de Redes Sociais/atuar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/atuar;1;Gerência de Projetos de Software/
+armazenamento;1;Gestão de Infraestrutura de TI/
+tuning;1;Bancos de Dados/
+atuam;1;Análise Estratégica de Redes Sociais/atuam;2;Arquitetura de Software Distribuido/atuam;1;Bancos de Dados/atuam;3;Business Intelligence/atuam;2;Desenvolvimento de Aplicações para Dispositivos Móveis/atuam;2;Gerência de Projetos de Software/atuam;1;Gestão de Segurança da Informação/atuam;2;Redes de Computadores/atuam;2;Sistemas de Telecomunicações/
+conjuntos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+inteno;1;Análise Estratégica de Redes Sociais/
+projetar;1;Business Intelligence/
+competitiva;1;Business Intelligence/
+desafio;1;Gerência de Projetos de Software/
+gerncia;2;Engenharia de Software/gerncia;8;Gerência de Projetos de Software/gerncia;1;Gestão de Infraestrutura de TI/gerncia;3;Gestão de Segurança da Informação/gerncia;3;Gestão de Tecnologia da Informação/gerncia;3;Redes de Computadores/
+infraestrutura;5;Gestão de Infraestrutura de TI/infraestrutura;1;Gestão de Segurança da Informação/infraestrutura;1;Sistemas de Telecomunicações/
+locais;1;Redes de Computadores/
+tpicos;1;Análise Estratégica de Redes Sociais/
+processo;1;Arquitetura de Software Distribuido/processo;2;Business Intelligence/processo;2;Desenvolvimento de Aplicações para Dispositivos Móveis/
+auditoria;1;Gerência de Projetos de Software/auditoria;1;Gestão de Tecnologia da Informação/
+acessibilidade;1;Design de Interação/
+desempenho;1;Bancos de Dados/desempenho;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+usurio;2;Design de Interação/
+prpria;1;Gestão de Infraestrutura de TI/
+estimativas;1;Engenharia de Software/estimativas;1;Gerência de Projetos de Software/
+acompanhamento;1;Bancos de Dados/
+consolidar;1;Redes de Computadores/
+performance;2;Business Intelligence/
+wireshark;1;Redes de Computadores/
+manuteno;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+sistemas;2;Arquitetura de Software Distribuido/sistemas;2;Bancos de Dados/sistemas;5;Business Intelligence/sistemas;3;Desenvolvimento de Aplicações para Dispositivos Móveis/sistemas;3;Design de Interação/sistemas;3;Engenharia de Software/sistemas;1;Geoprocessamento e Análise Espacial/sistemas;5;Gerência de Projetos de Software/sistemas;1;Gestão de Infraestrutura de TI/sistemas;3;Gestão de Segurança da Informação/sistemas;1;Gestão de Tecnologia da Informação/sistemas;2;Redes de Computadores/sistemas;4;Sistemas de Telecomunicações/sistemas;4;Técnicas de Inteligência Computacional e suas Aplicações/
+prototipao;1;Design de Interação/
+nebulosos;2;Técnicas de Inteligência Computacional e suas Aplicações/
+eltrica;1;Sistemas de Telecomunicações/
+aperfeioar;1;Arquitetura de Software Distribuido/aperfeioar;1;Business Intelligence/aperfeioar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+novas;1;Arquitetura de Software Distribuido/novas;1;Gestão de Segurança da Informação/
+tcnicos;1;Arquitetura de Software Distribuido/tcnicos;1;Business Intelligence/tcnicos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+curso;1;Desenvolvimento de Aplicações para Dispositivos Móveis/curso;1;Engenharia de Software/curso;1;Gestão de Infraestrutura de TI/curso;1;Gestão de Segurança da Informação/curso;1;Sistemas de Telecomunicações/
+setor;1;Gestão de Segurança da Informação/
+modelos;1;Análise Estratégica de Redes Sociais/modelos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/modelos;1;Engenharia de Software/modelos;1;Geoprocessamento e Análise Espacial/modelos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+interativos;1;Design de Interação/
+sgbd;3;Bancos de Dados/
+phone;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+legados;1;Arquitetura de Software Distribuido/legados;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+aquisio;1;Gestão de Infraestrutura de TI/aquisio;1;Gestão de Tecnologia da Informação/
+fornecendo;1;Técnicas de Inteligência Computacional e suas Aplicações/
+avaliao;1;Arquitetura de Software Distribuido/avaliao;1;Design de Interação/avaliao;1;Geoprocessamento e Análise Espacial/avaliao;1;Sistemas de Telecomunicações/
+tv;1;Sistemas de Telecomunicações/
+cincias;2;Gestão de Segurança da Informação/
+tm;1;Análise Estratégica de Redes Sociais/
+switches;1;Redes de Computadores/
+grid;1;Arquitetura de Software Distribuido/grid;1;Bancos de Dados/
+participar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+geomarketing;1;Geoprocessamento e Análise Espacial/
+prticas;1;Bancos de Dados/prticas;1;Gerência de Projetos de Software/prticas;1;Gestão de Tecnologia da Informação/
+influncia;1;Geoprocessamento e Análise Espacial/
+marketing;1;Análise Estratégica de Redes Sociais/
+atuais;1;Bancos de Dados/
+pmbok;1;Engenharia de Software/pmbok;1;Gerência de Projetos de Software/
+transmisso;1;Sistemas de Telecomunicações/
+empreendedora;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+matlab;1;Técnicas de Inteligência Computacional e suas Aplicações/
+diversos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/diversos;1;Design de Interação/diversos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+formados;1;Redes de Computadores/
+propor;1;Arquitetura de Software Distribuido/propor;2;Desenvolvimento de Aplicações para Dispositivos Móveis/
+carreira;1;Redes de Computadores/
+inovadoras;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+profissional;1;Bancos de Dados/profissional;1;Gerência de Projetos de Software/profissional;1;Sistemas de Telecomunicações/
+sql;2;Bancos de Dados/
+alunos;1;Análise Estratégica de Redes Sociais/alunos;1;Bancos de Dados/alunos;1;Engenharia de Software/
+so;1;Redes de Computadores/
+identificar;1;Análise Estratégica de Redes Sociais/identificar;1;Arquitetura de Software Distribuido/identificar;2;Business Intelligence/identificar;2;Desenvolvimento de Aplicações para Dispositivos Móveis/identificar;1;Design de Interação/
+android;1;Arquitetura de Software Distribuido/android;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+identificao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+nuvens;1;Arquitetura de Software Distribuido/nuvens;1;Bancos de Dados/nuvens;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+verificar;1;Arquitetura de Software Distribuido/verificar;1;Business Intelligence/verificar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+windows;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+laboratrio;1;Redes de Computadores/
+habilitar;1;Análise Estratégica de Redes Sociais/
+estatstica;1;Técnicas de Inteligência Computacional e suas Aplicações/
+nveis;1;Sistemas de Telecomunicações/
+variados;1;Engenharia de Software/
+discutir;1;Arquitetura de Software Distribuido/discutir;1;Business Intelligence/discutir;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+servios;1;Arquitetura de Software Distribuido/servios;1;Business Intelligence/servios;1;Desenvolvimento de Aplicações para Dispositivos Móveis/servios;1;Gerência de Projetos de Software/servios;4;Gestão de Infraestrutura de TI/servios;4;Gestão de Tecnologia da Informação/servios;1;Redes de Computadores/servios;1;Técnicas de Inteligência Computacional e suas Aplicações/
+internet;1;Arquitetura de Software Distribuido/internet;1;Desenvolvimento de Aplicações para Dispositivos Móveis/internet;1;Design de Interação/
+portflios;1;Gestão de Tecnologia da Informação/
+eletromagntica;1;Sistemas de Telecomunicações/
+perspectivas;1;Business Intelligence/
+definio;1;Arquitetura de Software Distribuido/
+realizadas;1;Design de Interação/
+comunicacionais;1;Análise Estratégica de Redes Sociais/
+interao;1;Análise Estratégica de Redes Sociais/interao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/interao;4;Design de Interação/interao;1;Engenharia de Software/
+preveno;1;Gestão de Segurança da Informação/
+controle;1;Gerência de Projetos de Software/controle;1;Técnicas de Inteligência Computacional e suas Aplicações/
+ferramentas;1;Arquitetura de Software Distribuido/ferramentas;1;Business Intelligence/ferramentas;1;Desenvolvimento de Aplicações para Dispositivos Móveis/ferramentas;2;Gerência de Projetos de Software/ferramentas;1;Gestão de Infraestrutura de TI/
+urbano;1;Geoprocessamento e Análise Espacial/
+ponto;1;Arquitetura de Software Distribuido/ponto;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+evoluo;1;Bancos de Dados/
+proporcionar;1;Arquitetura de Software Distribuido/proporcionar;1;Business Intelligence/proporcionar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+desenvolvedores;1;Arquitetura de Software Distribuido/desenvolvedores;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+slidos;1;Bancos de Dados/
+mvel;1;Arquitetura de Software Distribuido/mvel;1;Redes de Computadores/mvel;1;Sistemas de Telecomunicações/
+servidores;2;Gestão de Infraestrutura de TI/
+elementos;1;Arquitetura de Software Distribuido/elementos;2;Bancos de Dados/
+apliclas;1;Engenharia de Software/
+olap;2;Business Intelligence/
+prtica;2;Redes de Computadores/
+virtual;1;Arquitetura de Software Distribuido/
+etapa;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+experimentos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+aplicao;2;Desenvolvimento de Aplicações para Dispositivos Móveis/
+teoria;1;Técnicas de Inteligência Computacional e suas Aplicações/
+cpm;1;Business Intelligence/
+user;1;Análise Estratégica de Redes Sociais/
+orientados;1;Bancos de Dados/
+quantitativos;1;Business Intelligence/quantitativos;1;Geoprocessamento e Análise Espacial/
+produtividade;1;Arquitetura de Software Distribuido/
+alta;1;Gerência de Projetos de Software/
+mveis;3;Análise Estratégica de Redes Sociais/mveis;1;Arquitetura de Software Distribuido/mveis;1;Bancos de Dados/mveis;16;Desenvolvimento de Aplicações para Dispositivos Móveis/mveis;1;Engenharia de Software/mveis;1;Gestão de Segurança da Informação/mveis;1;Sistemas de Telecomunicações/
+fazem;1;Análise Estratégica de Redes Sociais/
+soa;2;Arquitetura de Software Distribuido/
+intuito;1;Engenharia de Software/
+geogrfica;1;Geoprocessamento e Análise Espacial/
+componentes;1;Arquitetura de Software Distribuido/componentes;1;Técnicas de Inteligência Computacional e suas Aplicações/
+fundamentos;1;Análise Estratégica de Redes Sociais/fundamentos;1;Design de Interação/fundamentos;1;Sistemas de Telecomunicações/fundamentos;2;Técnicas de Inteligência Computacional e suas Aplicações/
+relacional;1;Bancos de Dados/
+operacionais;1;Bancos de Dados/operacionais;1;Gestão de Infraestrutura de TI/
+documentar;1;Arquitetura de Software Distribuido/
+computadores;1;Gestão de Infraestrutura de TI/computadores;1;Gestão de Segurança da Informação/computadores;5;Redes de Computadores/computadores;2;Sistemas de Telecomunicações/
+homemcomputador;1;Engenharia de Software/
+computao;5;Arquitetura de Software Distribuido/computao;1;Bancos de Dados/computao;2;Business Intelligence/computao;3;Desenvolvimento de Aplicações para Dispositivos Móveis/computao;1;Design de Interação/computao;2;Engenharia de Software/computao;1;Geoprocessamento e Análise Espacial/computao;1;Gerência de Projetos de Software/computao;1;Gestão de Infraestrutura de TI/computao;1;Gestão de Tecnologia da Informação/computao;2;Redes de Computadores/computao;2;Técnicas de Inteligência Computacional e suas Aplicações/
+conhecer;1;Análise Estratégica de Redes Sociais/
+segmento;1;Redes de Computadores/
+analisar;1;Design de Interação/
+baseados;2;Análise Estratégica de Redes Sociais/
+aplicativos;1;Arquitetura de Software Distribuido/aplicativos;2;Desenvolvimento de Aplicações para Dispositivos Móveis/
+segmentos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+combinando;1;Bancos de Dados/
+ttulo;1;Sistemas de Telecomunicações/
+representado;1;Gerência de Projetos de Software/
+executar;1;Business Intelligence/
+especficos;1;Bancos de Dados/
+propagao;1;Sistemas de Telecomunicações/
+process;1;Engenharia de Software/
+relacionadas;1;Business Intelligence/relacionadas;1;Gestão de Infraestrutura de TI/
+telecomunicaes;1;Arquitetura de Software Distribuido/telecomunicaes;1;Redes de Computadores/telecomunicaes;9;Sistemas de Telecomunicações/
+telefonia;1;Sistemas de Telecomunicações/
+caractersticas;1;Análise Estratégica de Redes Sociais/
+decises;1;Técnicas de Inteligência Computacional e suas Aplicações/
+ramos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+turismo;1;Geoprocessamento e Análise Espacial/
+complementar;1;Business Intelligence/
+sociais;13;Análise Estratégica de Redes Sociais/sociais;1;Business Intelligence/sociais;1;Desenvolvimento de Aplicações para Dispositivos Móveis/sociais;1;Gestão de Segurança da Informação/
+neurocomputao;1;Técnicas de Inteligência Computacional e suas Aplicações/
+softwares;2;Arquitetura de Software Distribuido/softwares;1;Bancos de Dados/softwares;2;Desenvolvimento de Aplicações para Dispositivos Móveis/
+minerao;1;Bancos de Dados/minerao;1;Business Intelligence/
+profissionais;3;Análise Estratégica de Redes Sociais/profissionais;2;Arquitetura de Software Distribuido/profissionais;2;Bancos de Dados/profissionais;4;Business Intelligence/profissionais;3;Desenvolvimento de Aplicações para Dispositivos Móveis/profissionais;2;Design de Interação/profissionais;2;Engenharia de Software/profissionais;1;Geoprocessamento e Análise Espacial/profissionais;2;Gerência de Projetos de Software/profissionais;4;Gestão de Infraestrutura de TI/profissionais;1;Gestão de Segurança da Informação/profissionais;3;Gestão de Tecnologia da Informação/profissionais;1;Redes de Computadores/profissionais;3;Sistemas de Telecomunicações/profissionais;1;Técnicas de Inteligência Computacional e suas Aplicações/
+afins;1;Business Intelligence/afins;1;Desenvolvimento de Aplicações para Dispositivos Móveis/afins;1;Design de Interação/afins;1;Gerência de Projetos de Software/afins;1;Gestão de Tecnologia da Informação/afins;1;Técnicas de Inteligência Computacional e suas Aplicações/
+orientam;1;Arquitetura de Software Distribuido/orientam;1;Business Intelligence/
+contextos;1;Design de Interação/contextos;1;Engenharia de Software/
+considerando;1;Arquitetura de Software Distribuido/considerando;1;Design de Interação/
+integrlos;1;Arquitetura de Software Distribuido/integrlos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+estudos;1;Análise Estratégica de Redes Sociais/estudos;2;Geoprocessamento e Análise Espacial/
+capazes;1;Design de Interação/
+intelligence;2;Business Intelligence/intelligence;1;Gestão de Tecnologia da Informação/
+ingressar;1;Gestão de Segurança da Informação/ingressar;1;Redes de Computadores/
+credibilidade;1;Análise Estratégica de Redes Sociais/
+software;18;Arquitetura de Software Distribuido/software;2;Bancos de Dados/software;3;Desenvolvimento de Aplicações para Dispositivos Móveis/software;10;Engenharia de Software/software;6;Gerência de Projetos de Software/software;1;Gestão de Tecnologia da Informação/
+orientada;1;Arquitetura de Software Distribuido/
+contratao;2;Gestão de Infraestrutura de TI/contratao;1;Gestão de Tecnologia da Informação/
+segurana;1;Desenvolvimento de Aplicações para Dispositivos Móveis/segurana;1;Gestão de Infraestrutura de TI/segurana;9;Gestão de Segurança da Informação/segurana;1;Gestão de Tecnologia da Informação/segurana;1;Redes de Computadores/segurana;1;Sistemas de Telecomunicações/
+apresentar;2;Bancos de Dados/apresentar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/apresentar;1;Gestão de Tecnologia da Informação/apresentar;1;Redes de Computadores/
+mobilidade;2;Análise Estratégica de Redes Sociais/
+coordenadores;1;Arquitetura de Software Distribuido/coordenadores;1;Business Intelligence/coordenadores;1;Desenvolvimento de Aplicações para Dispositivos Móveis/coordenadores;1;Engenharia de Software/coordenadores;1;Gerência de Projetos de Software/
+ampliar;1;Arquitetura de Software Distribuido/ampliar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+negcios;2;Análise Estratégica de Redes Sociais/negcios;1;Arquitetura de Software Distribuido/negcios;2;Business Intelligence/negcios;2;Desenvolvimento de Aplicações para Dispositivos Móveis/negcios;1;Engenharia de Software/negcios;1;Gestão de Infraestrutura de TI/negcios;1;Gestão de Segurança da Informação/negcios;1;Gestão de Tecnologia da Informação/negcios;1;Técnicas de Inteligência Computacional e suas Aplicações/
+pticos;1;Sistemas de Telecomunicações/
+equipamentos;1;Redes de Computadores/
+eai;1;Arquitetura de Software Distribuido/
+internas;1;Gestão de Infraestrutura de TI/
+conceitos;2;Arquitetura de Software Distribuido/conceitos;1;Bancos de Dados/conceitos;3;Business Intelligence/conceitos;4;Desenvolvimento de Aplicações para Dispositivos Móveis/conceitos;1;Redes de Computadores/
+dispositivos;1;Arquitetura de Software Distribuido/dispositivos;6;Desenvolvimento de Aplicações para Dispositivos Móveis/dispositivos;1;Engenharia de Software/
+livres;1;Bancos de Dados/
+planejamento;1;Business Intelligence/planejamento;1;Geoprocessamento e Análise Espacial/planejamento;1;Gerência de Projetos de Software/planejamento;1;Gestão de Tecnologia da Informação/planejamento;5;Técnicas de Inteligência Computacional e suas Aplicações/
+reputao;1;Análise Estratégica de Redes Sociais/
+identidade;1;Gestão de Segurança da Informação/
+produto;1;Engenharia de Software/produto;1;Gerência de Projetos de Software/
+rede;1;Gestão de Infraestrutura de TI/
+projeto;2;Arquitetura de Software Distribuido/projeto;1;Bancos de Dados/projeto;6;Business Intelligence/projeto;3;Desenvolvimento de Aplicações para Dispositivos Móveis/projeto;3;Design de Interação/projeto;3;Engenharia de Software/projeto;1;Gerência de Projetos de Software/projeto;1;Gestão de Infraestrutura de TI/projeto;1;Redes de Computadores/
+exerccio;1;Sistemas de Telecomunicações/
+digital;1;Sistemas de Telecomunicações/
+viso;1;Arquitetura de Software Distribuido/viso;2;Bancos de Dados/viso;2;Business Intelligence/viso;1;Desenvolvimento de Aplicações para Dispositivos Móveis/viso;1;Gestão de Segurança da Informação/
+sigs;3;Geoprocessamento e Análise Espacial/
+pesquisa;1;Análise Estratégica de Redes Sociais/pesquisa;1;Arquitetura de Software Distribuido/pesquisa;1;Bancos de Dados/pesquisa;1;Business Intelligence/pesquisa;1;Desenvolvimento de Aplicações para Dispositivos Móveis/pesquisa;1;Design de Interação/pesquisa;1;Engenharia de Software/pesquisa;1;Geoprocessamento e Análise Espacial/pesquisa;1;Gerência de Projetos de Software/pesquisa;1;Gestão de Infraestrutura de TI/pesquisa;1;Gestão de Segurança da Informação/pesquisa;1;Gestão de Tecnologia da Informação/pesquisa;1;Redes de Computadores/pesquisa;1;Sistemas de Telecomunicações/pesquisa;3;Técnicas de Inteligência Computacional e suas Aplicações/
+fornecer;2;Arquitetura de Software Distribuido/fornecer;2;Business Intelligence/fornecer;1;Desenvolvimento de Aplicações para Dispositivos Móveis/fornecer;1;Geoprocessamento e Análise Espacial/fornecer;1;Gestão de Segurança da Informação/
+nc;1;Gerência de Projetos de Software/
+melhorar;1;Business Intelligence/
+eficiente;1;Gestão de Tecnologia da Informação/
+nvel;1;Arquitetura de Software Distribuido/nvel;2;Bancos de Dados/nvel;4;Business Intelligence/nvel;2;Desenvolvimento de Aplicações para Dispositivos Móveis/nvel;1;Engenharia de Software/nvel;1;Geoprocessamento e Análise Espacial/nvel;1;Gerência de Projetos de Software/nvel;1;Gestão de Segurança da Informação/nvel;1;Gestão de Tecnologia da Informação/nvel;2;Redes de Computadores/nvel;2;Sistemas de Telecomunicações/
+desejo;1;Redes de Computadores/
+java;1;Arquitetura de Software Distribuido/
+propiciar;1;Sistemas de Telecomunicações/propiciar;1;Técnicas de Inteligência Computacional e suas Aplicações/
+explicitar;1;Arquitetura de Software Distribuido/
+gerente;1;Redes de Computadores/
+inovaes;1;Bancos de Dados/
+empreendedorismo;1;Análise Estratégica de Redes Sociais/
+estratgicas;1;Análise Estratégica de Redes Sociais/
+pblicos;1;Geoprocessamento e Análise Espacial/
+engenheiros;1;Gestão de Segurança da Informação/
+geis;1;Engenharia de Software/geis;1;Gerência de Projetos de Software/
+objetivos;1;Análise Estratégica de Redes Sociais/objetivos;1;Arquitetura de Software Distribuido/objetivos;1;Bancos de Dados/objetivos;1;Business Intelligence/objetivos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/objetivos;1;Design de Interação/objetivos;1;Engenharia de Software/objetivos;1;Geoprocessamento e Análise Espacial/objetivos;1;Gerência de Projetos de Software/objetivos;1;Gestão de Infraestrutura de TI/objetivos;1;Gestão de Segurança da Informação/objetivos;1;Gestão de Tecnologia da Informação/objetivos;1;Redes de Computadores/objetivos;1;Sistemas de Telecomunicações/objetivos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+informaes;1;Gestão de Tecnologia da Informação/
+rgos;1;Geoprocessamento e Análise Espacial/
+qualidade;1;Arquitetura de Software Distribuido/qualidade;1;Bancos de Dados/qualidade;2;Business Intelligence/qualidade;1;Desenvolvimento de Aplicações para Dispositivos Móveis/qualidade;1;Engenharia de Software/qualidade;1;Geoprocessamento e Análise Espacial/qualidade;2;Gerência de Projetos de Software/
+configurao;1;Engenharia de Software/configurao;1;Gerência de Projetos de Software/configurao;2;Redes de Computadores/
+bsicos;2;Arquitetura de Software Distribuido/
+brasil;1;Sistemas de Telecomunicações/
+conectividade;1;Gestão de Segurança da Informação/
+graduados;1;Bancos de Dados/graduados;1;Sistemas de Telecomunicações/graduados;1;Técnicas de Inteligência Computacional e suas Aplicações/
+computacionais;1;Técnicas de Inteligência Computacional e suas Aplicações/
+forense;1;Gestão de Segurança da Informação/
+voltados;1;Análise Estratégica de Redes Sociais/
+princpios;1;Arquitetura de Software Distribuido/princpios;1;Engenharia de Software/princpios;1;Gerência de Projetos de Software/
+riscos;1;Gerência de Projetos de Software/riscos;1;Gestão de Segurança da Informação/
+ondas;1;Sistemas de Telecomunicações/
+experincia;1;Técnicas de Inteligência Computacional e suas Aplicações/
+abrangncia;1;Geoprocessamento e Análise Espacial/
+patrimnio;1;Gestão de Segurança da Informação/
+aspectos;1;Bancos de Dados/
+corporativo;1;Arquitetura de Software Distribuido/corporativo;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+organizacionais;1;Engenharia de Software/organizacionais;1;Geoprocessamento e Análise Espacial/organizacionais;1;Gestão de Tecnologia da Informação/
+cientfica;1;Análise Estratégica de Redes Sociais/cientfica;1;Arquitetura de Software Distribuido/cientfica;1;Bancos de Dados/cientfica;1;Business Intelligence/cientfica;1;Desenvolvimento de Aplicações para Dispositivos Móveis/cientfica;1;Design de Interação/cientfica;1;Engenharia de Software/cientfica;1;Geoprocessamento e Análise Espacial/cientfica;1;Gerência de Projetos de Software/cientfica;1;Gestão de Infraestrutura de TI/cientfica;1;Gestão de Segurança da Informação/cientfica;1;Gestão de Tecnologia da Informação/cientfica;1;Redes de Computadores/cientfica;1;Sistemas de Telecomunicações/cientfica;1;Técnicas de Inteligência Computacional e suas Aplicações/
+celulares;1;Sistemas de Telecomunicações/
+produtos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+aplicados;1;Gestão de Infraestrutura de TI/
+experience;1;Análise Estratégica de Redes Sociais/
+tecnologias;2;Análise Estratégica de Redes Sociais/tecnologias;5;Arquitetura de Software Distribuido/tecnologias;1;Bancos de Dados/tecnologias;1;Business Intelligence/tecnologias;3;Desenvolvimento de Aplicações para Dispositivos Móveis/tecnologias;2;Design de Interação/tecnologias;2;Engenharia de Software/tecnologias;1;Geoprocessamento e Análise Espacial/tecnologias;2;Redes de Computadores/
+ensino;1;Sistemas de Telecomunicações/
+bancos;10;Bancos de Dados/bancos;1;Engenharia de Software/bancos;1;Geoprocessamento e Análise Espacial/bancos;1;Gestão de Infraestrutura de TI/
+comunicao;1;Análise Estratégica de Redes Sociais/comunicao;2;Design de Interação/comunicao;1;Gerência de Projetos de Software/
+corporativa;2;Business Intelligence/corporativa;1;Gestão de Infraestrutura de TI/corporativa;2;Gestão de Segurança da Informação/corporativa;1;Gestão de Tecnologia da Informação/
+administradores;2;Gestão de Segurança da Informação/
+tratamento;1;Business Intelligence/
+funes;1;Gestão de Infraestrutura de TI/
+trabalhar;2;Análise Estratégica de Redes Sociais/
+deciso;1;Business Intelligence/deciso;1;Técnicas de Inteligência Computacional e suas Aplicações/
+construo;1;Arquitetura de Software Distribuido/construo;2;Business Intelligence/construo;1;Técnicas de Inteligência Computacional e suas Aplicações/
+mercado;1;Arquitetura de Software Distribuido/mercado;1;Bancos de Dados/mercado;2;Business Intelligence/mercado;3;Desenvolvimento de Aplicações para Dispositivos Móveis/mercado;1;Engenharia de Software/mercado;1;Gerência de Projetos de Software/mercado;1;Sistemas de Telecomunicações/
+computacional;1;Gestão de Segurança da Informação/computacional;1;Técnicas de Inteligência Computacional e suas Aplicações/
+desktops;1;Gestão de Infraestrutura de TI/
+trabalham;2;Análise Estratégica de Redes Sociais/trabalham;1;Gestão de Infraestrutura de TI/trabalham;1;Gestão de Segurança da Informação/
+humanas;1;Gerência de Projetos de Software/
+desenvolvendo;1;Gerência de Projetos de Software/
+reas;1;Bancos de Dados/reas;1;Business Intelligence/reas;1;Design de Interação/reas;1;Engenharia de Software/reas;1;Geoprocessamento e Análise Espacial/reas;1;Gerência de Projetos de Software/reas;2;Gestão de Segurança da Informação/reas;1;Gestão de Tecnologia da Informação/reas;1;Sistemas de Telecomunicações/reas;1;Técnicas de Inteligência Computacional e suas Aplicações/
+distribudo;3;Arquitetura de Software Distribuido/
+problemas;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+utilizando;1;Desenvolvimento de Aplicações para Dispositivos Móveis/utilizando;1;Geoprocessamento e Análise Espacial/
+padres;1;Business Intelligence/padres;1;Sistemas de Telecomunicações/
+mtodos;1;Business Intelligence/mtodos;1;Geoprocessamento e Análise Espacial/
+interaes;1;Design de Interação/
+inovao;1;Análise Estratégica de Redes Sociais/inovao;1;Design de Interação/inovao;1;Técnicas de Inteligência Computacional e suas Aplicações/
+projetos;3;Análise Estratégica de Redes Sociais/projetos;2;Arquitetura de Software Distribuido/projetos;3;Business Intelligence/projetos;2;Desenvolvimento de Aplicações para Dispositivos Móveis/projetos;2;Engenharia de Software/projetos;12;Gerência de Projetos de Software/projetos;2;Gestão de Infraestrutura de TI/projetos;1;Gestão de Segurança da Informação/projetos;3;Gestão de Tecnologia da Informação/projetos;1;Redes de Computadores/projetos;1;Sistemas de Telecomunicações/projetos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+inteligentes;1;Técnicas de Inteligência Computacional e suas Aplicações/
+cenrio;2;Análise Estratégica de Redes Sociais/
+ambientes;1;Geoprocessamento e Análise Espacial/ambientes;2;Gestão de Segurança da Informação/
+governana;1;Business Intelligence/governana;1;Gestão de Tecnologia da Informação/
+gerenciar;1;Business Intelligence/
+possibilidades;1;Análise Estratégica de Redes Sociais/
+garantia;1;Business Intelligence/garantia;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+design;1;Desenvolvimento de Aplicações para Dispositivos Móveis/design;8;Design de Interação/design;1;Engenharia de Software/
+oracle;1;Bancos de Dados/
+gerencial;1;Gerência de Projetos de Software/gerencial;2;Gestão de Segurança da Informação/
+habilidades;1;Engenharia de Software/habilidades;1;Geoprocessamento e Análise Espacial/habilidades;1;Sistemas de Telecomunicações/
+bpm;1;Arquitetura de Software Distribuido/bpm;1;Business Intelligence/bpm;1;Engenharia de Software/
+mostrar;1;Arquitetura de Software Distribuido/mostrar;1;Business Intelligence/mostrar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+cenrios;1;Técnicas de Inteligência Computacional e suas Aplicações/
+fornecedores;1;Gestão de Infraestrutura de TI/
+subsdios;1;Geoprocessamento e Análise Espacial/
+busquem;1;Gestão de Segurança da Informação/
+remoto;1;Geoprocessamento e Análise Espacial/
+webgis;1;Geoprocessamento e Análise Espacial/
+redefinir;1;Arquitetura de Software Distribuido/redefinir;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+analistas;3;Arquitetura de Software Distribuido/analistas;3;Business Intelligence/analistas;3;Desenvolvimento de Aplicações para Dispositivos Móveis/analistas;3;Engenharia de Software/analistas;3;Gerência de Projetos de Software/analistas;2;Gestão de Segurança da Informação/analistas;1;Redes de Computadores/
+briefing;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+prescritivos;1;Engenharia de Software/prescritivos;1;Gerência de Projetos de Software/
+data;1;Arquitetura de Software Distribuido/data;2;Bancos de Dados/data;2;Business Intelligence/
+testes;1;Engenharia de Software/
+cursos;1;Arquitetura de Software Distribuido/cursos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/cursos;1;Gestão de Infraestrutura de TI/cursos;1;Redes de Computadores/cursos;1;Sistemas de Telecomunicações/
+especializar;1;Redes de Computadores/
+espacial;2;Geoprocessamento e Análise Espacial/
+administrao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/administrao;1;Geoprocessamento e Análise Espacial/administrao;1;Gestão de Infraestrutura de TI/administrao;2;Gestão de Tecnologia da Informação/administrao;1;Redes de Computadores/administrao;2;Técnicas de Inteligência Computacional e suas Aplicações/
+gestores;1;Business Intelligence/gestores;1;Gestão de Infraestrutura de TI/
+mecanismos;1;Análise Estratégica de Redes Sociais/
+novos;1;Arquitetura de Software Distribuido/novos;2;Desenvolvimento de Aplicações para Dispositivos Móveis/novos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+necessrios;1;Arquitetura de Software Distribuido/
+arquiteturais;1;Arquitetura de Software Distribuido/
+tecnolgicas;1;Gestão de Segurança da Informação/
+corporativas;1;Arquitetura de Software Distribuido/
+contexto;1;Análise Estratégica de Redes Sociais/contexto;2;Arquitetura de Software Distribuido/contexto;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+indiretamente;2;Sistemas de Telecomunicações/
+tericos;1;Redes de Computadores/
+tecnologia;1;Análise Estratégica de Redes Sociais/tecnologia;2;Arquitetura de Software Distribuido/tecnologia;2;Desenvolvimento de Aplicações para Dispositivos Móveis/tecnologia;1;Gerência de Projetos de Software/tecnologia;1;Gestão de Infraestrutura de TI/tecnologia;2;Gestão de Segurança da Informação/
+satlites;1;Sistemas de Telecomunicações/
+especialista;1;Sistemas de Telecomunicações/
+matricularem;1;Sistemas de Telecomunicações/
+tecnlogos;1;Redes de Computadores/tecnlogos;1;Sistemas de Telecomunicações/
+dados;4;Arquitetura de Software Distribuido/dados;14;Bancos de Dados/dados;7;Business Intelligence/dados;2;Desenvolvimento de Aplicações para Dispositivos Móveis/dados;1;Engenharia de Software/dados;1;Geoprocessamento e Análise Espacial/dados;2;Gestão de Infraestrutura de TI/dados;1;Gestão de Segurança da Informação/dados;1;Sistemas de Telecomunicações/
+acessos;1;Business Intelligence/
+pblicoalvo;1;Análise Estratégica de Redes Sociais/pblicoalvo;1;Arquitetura de Software Distribuido/pblicoalvo;1;Bancos de Dados/pblicoalvo;1;Business Intelligence/pblicoalvo;1;Desenvolvimento de Aplicações para Dispositivos Móveis/pblicoalvo;1;Design de Interação/pblicoalvo;1;Engenharia de Software/pblicoalvo;1;Geoprocessamento e Análise Espacial/pblicoalvo;1;Gerência de Projetos de Software/pblicoalvo;1;Gestão de Infraestrutura de TI/pblicoalvo;2;Gestão de Segurança da Informação/pblicoalvo;1;Gestão de Tecnologia da Informação/pblicoalvo;1;Redes de Computadores/pblicoalvo;1;Sistemas de Telecomunicações/pblicoalvo;1;Técnicas de Inteligência Computacional e suas Aplicações/
+antenas;1;Sistemas de Telecomunicações/
+recentes;1;Bancos de Dados/
+localizao;1;Geoprocessamento e Análise Espacial/
+usabilidade;2;Design de Interação/
+prrequisito;1;Sistemas de Telecomunicações/
+estruturado;1;Redes de Computadores/estruturado;1;Sistemas de Telecomunicações/
+inteligncia;2;Business Intelligence/inteligncia;1;Técnicas de Inteligência Computacional e suas Aplicações/
+integrado;3;Business Intelligence/integrado;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+direta;2;Sistemas de Telecomunicações/
+diplomados;1;Arquitetura de Software Distribuido/diplomados;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+mte;1;Sistemas de Telecomunicações/
+prticos;1;Redes de Computadores/
+metodologias;1;Engenharia de Software/metodologias;1;Geoprocessamento e Análise Espacial/metodologias;1;Redes de Computadores/
+warehouse;1;Bancos de Dados/warehouse;1;Business Intelligence/
+regulamentadora;1;Sistemas de Telecomunicações/
+envolvidos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/envolvidos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+distribudos;1;Arquitetura de Software Distribuido/distribudos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+nr10;1;Sistemas de Telecomunicações/
+dba;1;Business Intelligence/
+integrada;1;Gestão de Segurança da Informação/
+comportamento;1;Análise Estratégica de Redes Sociais/
+busca;2;Bancos de Dados/busca;1;Gestão de Segurança da Informação/
+conhecimentos;2;Arquitetura de Software Distribuido/conhecimentos;1;Bancos de Dados/conhecimentos;2;Business Intelligence/conhecimentos;2;Desenvolvimento de Aplicações para Dispositivos Móveis/conhecimentos;1;Gestão de Infraestrutura de TI/conhecimentos;1;Redes de Computadores/
+sistemticos;1;Engenharia de Software/
+etl;2;Business Intelligence/
+junto;1;Engenharia de Software/
+formas;1;Business Intelligence/
+formar;1;Design de Interação/
+terceiros;1;Gestão de Tecnologia da Informação/
+reutilizao;1;Engenharia de Software/
+procuram;1;Gestão de Infraestrutura de TI/
+formao;2;Business Intelligence/formao;1;Design de Interação/formao;1;Engenharia de Software/formao;1;Redes de Computadores/formao;1;Sistemas de Telecomunicações/
+integrar;1;Arquitetura de Software Distribuido/integrar;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+eficcia;1;Geoprocessamento e Análise Espacial/
+assistidos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+plataformas;1;Arquitetura de Software Distribuido/plataformas;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+integrao;1;Arquitetura de Software Distribuido/integrao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+solues;2;Análise Estratégica de Redes Sociais/solues;1;Arquitetura de Software Distribuido/solues;2;Desenvolvimento de Aplicações para Dispositivos Móveis/solues;1;Gestão de Infraestrutura de TI/solues;1;Gestão de Segurança da Informação/
+negcio;1;Análise Estratégica de Redes Sociais/negcio;1;Arquitetura de Software Distribuido/negcio;1;Business Intelligence/negcio;1;Desenvolvimento de Aplicações para Dispositivos Móveis/negcio;1;Gerência de Projetos de Software/
+vista;1;Arquitetura de Software Distribuido/vista;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+management;1;Engenharia de Software/
+pessoas;1;Gestão de Infraestrutura de TI/pessoas;1;Gestão de Segurança da Informação/pessoas;1;Gestão de Tecnologia da Informação/
+prestadores;1;Business Intelligence/prestadores;1;Gerência de Projetos de Software/
+database;1;Business Intelligence/
+mdio;1;Sistemas de Telecomunicações/
+redes;12;Análise Estratégica de Redes Sociais/redes;1;Business Intelligence/redes;1;Desenvolvimento de Aplicações para Dispositivos Móveis/redes;1;Gestão de Infraestrutura de TI/redes;3;Gestão de Segurança da Informação/redes;6;Redes de Computadores/redes;3;Sistemas de Telecomunicações/redes;1;Técnicas de Inteligência Computacional e suas Aplicações/
+firewall;1;Redes de Computadores/
+mbito;1;Business Intelligence/
+participante;2;Arquitetura de Software Distribuido/participante;3;Desenvolvimento de Aplicações para Dispositivos Móveis/participante;1;Gestão de Segurança da Informação/
+eletrnica;1;Sistemas de Telecomunicações/
+criao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+ambiente;1;Business Intelligence/ambiente;1;Desenvolvimento de Aplicações para Dispositivos Móveis/ambiente;1;Gerência de Projetos de Software/
+recuperao;1;Bancos de Dados/
+necessria;1;Gestão de Segurança da Informação/
+exatas;1;Gestão de Segurança da Informação/
+linguagem;1;Bancos de Dados/
+objetorelacionais;1;Bancos de Dados/
+administrator;1;Business Intelligence/
+microsoft;1;Bancos de Dados/
+norma;1;Sistemas de Telecomunicações/
+banco;2;Arquitetura de Software Distribuido/banco;1;Business Intelligence/banco;2;Desenvolvimento de Aplicações para Dispositivos Móveis/banco;1;Gestão de Segurança da Informação/
+aprofundamento;1;Bancos de Dados/
+web;2;Análise Estratégica de Redes Sociais/web;3;Arquitetura de Software Distribuido/web;1;Bancos de Dados/web;1;Business Intelligence/web;3;Desenvolvimento de Aplicações para Dispositivos Móveis/web;1;Engenharia de Software/web;1;Gestão de Segurança da Informação/web;1;Redes de Computadores/
+gerenciamento;1;Arquitetura de Software Distribuido/gerenciamento;1;Bancos de Dados/gerenciamento;2;Business Intelligence/gerenciamento;1;Desenvolvimento de Aplicações para Dispositivos Móveis/gerenciamento;1;Engenharia de Software/gerenciamento;1;Gerência de Projetos de Software/gerenciamento;1;Gestão de Tecnologia da Informação/gerenciamento;1;Sistemas de Telecomunicações/
+indicadores;1;Análise Estratégica de Redes Sociais/
+incluindo;1;Sistemas de Telecomunicações/
+mnimos;1;Sistemas de Telecomunicações/
+apis;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+tcnicas;1;Arquitetura de Software Distribuido/tcnicas;1;Business Intelligence/tcnicas;2;Desenvolvimento de Aplicações para Dispositivos Móveis/tcnicas;1;Design de Interação/tcnicas;3;Gerência de Projetos de Software/tcnicas;1;Técnicas de Inteligência Computacional e suas Aplicações/
+monitoramento;1;Gestão de Infraestrutura de TI/
+programa;1;Análise Estratégica de Redes Sociais/programa;1;Arquitetura de Software Distribuido/programa;1;Bancos de Dados/programa;1;Business Intelligence/programa;1;Desenvolvimento de Aplicações para Dispositivos Móveis/programa;1;Design de Interação/programa;1;Engenharia de Software/programa;1;Geoprocessamento e Análise Espacial/programa;1;Gerência de Projetos de Software/programa;1;Gestão de Infraestrutura de TI/programa;1;Gestão de Segurança da Informação/programa;1;Gestão de Tecnologia da Informação/programa;1;Redes de Computadores/programa;1;Sistemas de Telecomunicações/programa;1;Técnicas de Inteligência Computacional e suas Aplicações/
+modelar;1;Arquitetura de Software Distribuido/
+ambientais;1;Geoprocessamento e Análise Espacial/
+capacitar;2;Arquitetura de Software Distribuido/capacitar;1;Business Intelligence/capacitar;3;Desenvolvimento de Aplicações para Dispositivos Móveis/capacitar;1;Gestão de Infraestrutura de TI/capacitar;4;Gestão de Tecnologia da Informação/
+interativas;2;Análise Estratégica de Redes Sociais/interativas;1;Design de Interação/
+concepo;1;Desenvolvimento de Aplicações para Dispositivos Móveis/concepo;1;Gerência de Projetos de Software/
+capacitao;1;Gestão de Segurança da Informação/
+modelagem;2;Bancos de Dados/modelagem;2;Business Intelligence/modelagem;1;Técnicas de Inteligência Computacional e suas Aplicações/
+gerir;1;Gestão de Infraestrutura de TI/
+compreender;1;Análise Estratégica de Redes Sociais/compreender;1;Business Intelligence/
+cabeamento;1;Redes de Computadores/cabeamento;1;Sistemas de Telecomunicações/
+viabilizam;1;Análise Estratégica de Redes Sociais/
+eletromagnticas;1;Sistemas de Telecomunicações/
+possibilitar;2;Geoprocessamento e Análise Espacial/
+oferecendo;1;Sistemas de Telecomunicações/
+atualizaes;1;Sistemas de Telecomunicações/
+mdias;2;Análise Estratégica de Redes Sociais/
+introduo;1;Business Intelligence/introduo;1;Geoprocessamento e Análise Espacial/introduo;1;Gestão de Infraestrutura de TI/introduo;1;Redes de Computadores/introduo;1;Sistemas de Telecomunicações/
+curriculares;1;Sistemas de Telecomunicações/
+reciclar;1;Gestão de Infraestrutura de TI/
+superior;1;Arquitetura de Software Distribuido/superior;2;Bancos de Dados/superior;4;Business Intelligence/superior;2;Desenvolvimento de Aplicações para Dispositivos Móveis/superior;1;Design de Interação/superior;1;Engenharia de Software/superior;1;Geoprocessamento e Análise Espacial/superior;1;Gerência de Projetos de Software/superior;1;Gestão de Infraestrutura de TI/superior;1;Gestão de Segurança da Informação/superior;1;Gestão de Tecnologia da Informação/superior;2;Redes de Computadores/superior;3;Sistemas de Telecomunicações/
+informtica;1;Bancos de Dados/informtica;1;Business Intelligence/informtica;1;Engenharia de Software/informtica;1;Gerência de Projetos de Software/informtica;2;Gestão de Infraestrutura de TI/informtica;1;Técnicas de Inteligência Computacional e suas Aplicações/
+anlise;2;Análise Estratégica de Redes Sociais/anlise;1;Arquitetura de Software Distribuido/anlise;3;Desenvolvimento de Aplicações para Dispositivos Móveis/anlise;1;Design de Interação/anlise;1;Engenharia de Software/anlise;3;Geoprocessamento e Análise Espacial/anlise;1;Gerência de Projetos de Software/
+compatibilidade;1;Sistemas de Telecomunicações/
+diversas;1;Business Intelligence/diversas;1;Geoprocessamento e Análise Espacial/
+programao;1;Técnicas de Inteligência Computacional e suas Aplicações/
+economia;1;Geoprocessamento e Análise Espacial/economia;1;Técnicas de Inteligência Computacional e suas Aplicações/
+advogados;1;Gestão de Segurança da Informação/
+relacionados;2;Arquitetura de Software Distribuido/relacionados;2;Business Intelligence/relacionados;2;Desenvolvimento de Aplicações para Dispositivos Móveis/relacionados;1;Gestão de Infraestrutura de TI/relacionados;1;Redes de Computadores/
+tcnico;1;Arquitetura de Software Distribuido/tcnico;1;Business Intelligence/tcnico;1;Desenvolvimento de Aplicações para Dispositivos Móveis/tcnico;1;Engenharia de Software/tcnico;1;Gerência de Projetos de Software/tcnico;1;Sistemas de Telecomunicações/
+plataforma;2;Arquitetura de Software Distribuido/
+utilizem;1;Geoprocessamento e Análise Espacial/
+tomada;1;Business Intelligence/tomada;2;Técnicas de Inteligência Computacional e suas Aplicações/
+ee;1;Arquitetura de Software Distribuido/
+tcnica;1;Sistemas de Telecomunicações/
+organizaes;1;Geoprocessamento e Análise Espacial/
+aps;1;Sistemas de Telecomunicações/
+voltada;1;Bancos de Dados/
+implementao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/implementao;1;Engenharia de Software/
+organizao;1;Business Intelligence/
+receita;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+processamento;1;Sistemas de Telecomunicações/
+egressos;1;Gestão de Infraestrutura de TI/egressos;1;Redes de Computadores/
+independente;1;Business Intelligence/
+avanados;1;Análise Estratégica de Redes Sociais/
+metodologia;1;Análise Estratégica de Redes Sociais/metodologia;1;Arquitetura de Software Distribuido/metodologia;1;Bancos de Dados/metodologia;1;Business Intelligence/metodologia;1;Desenvolvimento de Aplicações para Dispositivos Móveis/metodologia;2;Design de Interação/metodologia;1;Engenharia de Software/metodologia;1;Geoprocessamento e Análise Espacial/metodologia;1;Gerência de Projetos de Software/metodologia;1;Gestão de Infraestrutura de TI/metodologia;1;Gestão de Segurança da Informação/metodologia;1;Gestão de Tecnologia da Informação/metodologia;1;Redes de Computadores/metodologia;1;Sistemas de Telecomunicações/metodologia;1;Técnicas de Inteligência Computacional e suas Aplicações/
+ios;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+abrangente;1;Bancos de Dados/abrangente;1;Gestão de Segurança da Informação/
+empresarial;1;Gestão de Tecnologia da Informação/
+contratos;1;Gerência de Projetos de Software/contratos;1;Gestão de Tecnologia da Informação/
+artificiais;1;Técnicas de Inteligência Computacional e suas Aplicações/
+essenciais;1;Bancos de Dados/
+desenvolver;1;Análise Estratégica de Redes Sociais/desenvolver;2;Business Intelligence/desenvolver;1;Design de Interação/desenvolver;1;Engenharia de Software/desenvolver;1;Geoprocessamento e Análise Espacial/
+aplicveis;1;Geoprocessamento e Análise Espacial/
+complexos;1;Técnicas de Inteligência Computacional e suas Aplicações/
+exeram;1;Gestão de Infraestrutura de TI/
+suporte;1;Arquitetura de Software Distribuido/suporte;1;Business Intelligence/suporte;1;Desenvolvimento de Aplicações para Dispositivos Móveis/suporte;1;Engenharia de Software/suporte;1;Gerência de Projetos de Software/suporte;1;Gestão de Segurança da Informação/suporte;1;Redes de Computadores/
+fraudes;1;Gestão de Segurança da Informação/
+principais;1;Análise Estratégica de Redes Sociais/principais;1;Business Intelligence/principais;1;Técnicas de Inteligência Computacional e suas Aplicações/
+bsica;1;Engenharia de Software/
+big;1;Arquitetura de Software Distribuido/big;1;Bancos de Dados/big;1;Business Intelligence/
+pretendem;1;Análise Estratégica de Redes Sociais/pretendem;1;Gerência de Projetos de Software/pretendem;1;Redes de Computadores/
+requisitos;1;Análise Estratégica de Redes Sociais/requisitos;1;Arquitetura de Software Distribuido/requisitos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/requisitos;1;Engenharia de Software/requisitos;1;Gerência de Projetos de Software/requisitos;1;Sistemas de Telecomunicações/
+modernos;1;Arquitetura de Software Distribuido/
+aprendidos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+s;2;Redes de Computadores/s;1;Sistemas de Telecomunicações/
+roteadores;1;Redes de Computadores/
+conhecimento;1;Business Intelligence/conhecimento;1;Geoprocessamento e Análise Espacial/conhecimento;1;Gestão de Tecnologia da Informação/conhecimento;1;Técnicas de Inteligência Computacional e suas Aplicações/
+j;1;Arquitetura de Software Distribuido/j;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+digitais;2;Análise Estratégica de Redes Sociais/
+legislao;1;Gestão de Segurança da Informação/
+casos;1;Análise Estratégica de Redes Sociais/
+virtualizao;1;Gestão de Infraestrutura de TI/
+estratgicos;1;Gestão de Tecnologia da Informação/
+competncias;1;Arquitetura de Software Distribuido/competncias;1;Business Intelligence/competncias;1;Desenvolvimento de Aplicações para Dispositivos Móveis/competncias;1;Gerência de Projetos de Software/
+capacitandoo;1;Gerência de Projetos de Software/capacitandoo;1;Gestão de Segurança da Informação/
+impactos;1;Arquitetura de Software Distribuido/impactos;1;Business Intelligence/impactos;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+elaborar;1;Business Intelligence/
+previsibilidade;1;Gerência de Projetos de Software/
+arquitetos;1;Arquitetura de Software Distribuido/
+evolucionria;2;Técnicas de Inteligência Computacional e suas Aplicações/
+estejam;1;Técnicas de Inteligência Computacional e suas Aplicações/
+perspectiva;1;Design de Interação/
+thinking;1;Design de Interação/
+profissionalmente;1;Bancos de Dados/
+qualquer;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+projetista;1;Redes de Computadores/
+graduao;1;Gestão de Infraestrutura de TI/graduao;1;Gestão de Segurança da Informação/
+importncia;1;Arquitetura de Software Distribuido/importncia;1;Business Intelligence/importncia;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+usurios;1;Design de Interação/
+desenvolvimento;5;Arquitetura de Software Distribuido/desenvolvimento;1;Business Intelligence/desenvolvimento;15;Desenvolvimento de Aplicações para Dispositivos Móveis/desenvolvimento;1;Design de Interação/desenvolvimento;3;Engenharia de Software/desenvolvimento;1;Geoprocessamento e Análise Espacial/desenvolvimento;4;Gerência de Projetos de Software/desenvolvimento;1;Sistemas de Telecomunicações/desenvolvimento;2;Técnicas de Inteligência Computacional e suas Aplicações/
+aplicaes;3;Análise Estratégica de Redes Sociais/aplicaes;4;Arquitetura de Software Distribuido/aplicaes;1;Bancos de Dados/aplicaes;3;Business Intelligence/aplicaes;17;Desenvolvimento de Aplicações para Dispositivos Móveis/aplicaes;2;Engenharia de Software/aplicaes;4;Geoprocessamento e Análise Espacial/aplicaes;1;Gestão de Segurança da Informação/aplicaes;4;Técnicas de Inteligência Computacional e suas Aplicações/
+planos;1;Análise Estratégica de Redes Sociais/
+arquiteturas;3;Arquitetura de Software Distribuido/arquiteturas;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+queiram;1;Arquitetura de Software Distribuido/queiram;1;Business Intelligence/queiram;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+conceituais;1;Bancos de Dados/
+consultores;1;Arquitetura de Software Distribuido/consultores;2;Business Intelligence/consultores;1;Desenvolvimento de Aplicações para Dispositivos Móveis/consultores;1;Engenharia de Software/consultores;1;Gerência de Projetos de Software/consultores;1;Gestão de Segurança da Informação/
+abordagens;1;Engenharia de Software/abordagens;1;Gerência de Projetos de Software/
+envolvendo;1;Análise Estratégica de Redes Sociais/
+bi;8;Business Intelligence/
+mining;1;Business Intelligence/
+atuem;1;Engenharia de Software/
+necessitam;1;Redes de Computadores/
+utilizao;1;Business Intelligence/utilizao;1;Desenvolvimento de Aplicações para Dispositivos Móveis/utilizao;1;Engenharia de Software/utilizao;1;Geoprocessamento e Análise Espacial/
+aproveitamento;1;Sistemas de Telecomunicações/
+backend;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+socioespaciais;1;Geoprocessamento e Análise Espacial/
+qualificao;1;Análise Estratégica de Redes Sociais/
+aplicado;1;Engenharia de Software/
+nuvem;1;Arquitetura de Software Distribuido/nuvem;1;Gestão de Infraestrutura de TI/
+contnuo;1;Bancos de Dados/
+atividades;1;Desenvolvimento de Aplicações para Dispositivos Móveis/atividades;1;Design de Interação/
+net;2;Arquitetura de Software Distribuido/
+mtricas;1;Desenvolvimento de Aplicações para Dispositivos Móveis/mtricas;1;Engenharia de Software/mtricas;1;Gerência de Projetos de Software/
+humanos;1;Gerência de Projetos de Software/
+centrado;2;Design de Interação/
+operao;1;Gestão de Infraestrutura de TI/operao;1;Técnicas de Inteligência Computacional e suas Aplicações/
+informao;1;Análise Estratégica de Redes Sociais/informao;3;Arquitetura de Software Distribuido/informao;3;Bancos de Dados/informao;3;Business Intelligence/informao;4;Desenvolvimento de Aplicações para Dispositivos Móveis/informao;1;Design de Interação/informao;1;Engenharia de Software/informao;1;Geoprocessamento e Análise Espacial/informao;2;Gerência de Projetos de Software/informao;2;Gestão de Infraestrutura de TI/informao;7;Gestão de Segurança da Informação/informao;2;Gestão de Tecnologia da Informação/informao;1;Redes de Computadores/
+assistncia;1;Geoprocessamento e Análise Espacial/
+aplicada;1;Sistemas de Telecomunicações/aplicada;1;Técnicas de Inteligência Computacional e suas Aplicações/
+rea;2;Arquitetura de Software Distribuido/rea;3;Bancos de Dados/rea;2;Business Intelligence/rea;3;Desenvolvimento de Aplicações para Dispositivos Móveis/rea;1;Gerência de Projetos de Software/rea;1;Gestão de Infraestrutura de TI/rea;1;Gestão de Segurança da Informação/rea;2;Redes de Computadores/rea;1;Sistemas de Telecomunicações/rea;1;Técnicas de Inteligência Computacional e suas Aplicações/
+alm;1;Geoprocessamento e Análise Espacial/
+privados;1;Geoprocessamento e Análise Espacial/
+dinmicas;1;Análise Estratégica de Redes Sociais/
+geogrficos;1;Bancos de Dados/geogrficos;1;Geoprocessamento e Análise Espacial/
+tenham;1;Análise Estratégica de Redes Sociais/
+celular;1;Sistemas de Telecomunicações/
+preparar;1;Gerência de Projetos de Software/
+recursos;1;Gerência de Projetos de Software/
+oportunidades;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+jee;1;Arquitetura de Software Distribuido/
+desenvolvam;1;Geoprocessamento e Análise Espacial/
+atividade;1;Gestão de Segurança da Informação/
+prestada;1;Geoprocessamento e Análise Espacial/
+interface;1;Design de Interação/
+atualizao;2;Bancos de Dados/atualizao;1;Sistemas de Telecomunicações/
+otimizao;2;Técnicas de Inteligência Computacional e suas Aplicações/
+engenharias;1;Gestão de Tecnologia da Informação/engenharias;1;Redes de Computadores/engenharias;1;Técnicas de Inteligência Computacional e suas Aplicações/
+maturidade;1;Engenharia de Software/maturidade;1;Gerência de Projetos de Software/
+estratgico;1;Técnicas de Inteligência Computacional e suas Aplicações/
+capacidade;1;Desenvolvimento de Aplicações para Dispositivos Móveis/
+produo;1;Análise Estratégica de Redes Sociais/
+;1;Gerência de Projetos de Software/
