@@ -33,15 +33,17 @@ public class CursoController {
 		
 		try {
 			for(int i = 0; i < docs.size(); i++){
+				
 				//calcula a frequencia das palavras iguais no documento
 				List<FrequenciaPalavraNoDocumento> listaFrequencias = listaPalavrasIguais(docs.get(i).getTermo());
 				
+				//
 				List<TF> tf = CalcularTf(listaFrequencias, docs.get(i).getTermo().size());
 				
 				//calcula o IDF
 				List<IDF> idf = CalcularIdf(docs.size(), docs, listaFrequencias, docs.get(i).getTermo().size());
+					
 			}
-		
 			
 		} catch (Exception e) {
 			System.out.println("Erro ao calcular a frequencia dos termos: " + e);
@@ -107,14 +109,13 @@ public class CursoController {
 					
 					for(int l = 0; l < list.size(); l++){
 						
-						if(list.get(i).equalsIgnoreCase(termo)){
+						if(list.get(l).equals(termo)){
 							existe = true;
 						}
-						
 					}
 					
 					if(existe == true){
-							cont ++;
+						cont ++;
 					}
 				}
 				System.out.println(termo + " - " + cont);
@@ -126,9 +127,6 @@ public class CursoController {
 		}catch(Exception e){
 			
 		}
-		
-		
-		
 		
 		
 		return listIDF;
@@ -227,7 +225,7 @@ public class CursoController {
 				
 				Documentos doc = new Documentos();
 				
-				//PR�-PROCESSAMENTO
+				//PRe-PROCESSAMENTO
 				//lista com todas as palavras existentes nos arquivos
 				List<String> listaPalavras = arq.lerArquivoCurso(lista.get(i), caminho);
 				
@@ -245,7 +243,7 @@ public class CursoController {
 				//calcula a frequencia que cada palavra aparece nos documentos
 				//frequenciaDosTermos = calcularFrequenciaTermos(listaPalavrasSemStopwords, frequenciaDosTermos,lista.get(i).replaceAll(".txt", ""));
 			}
-			@SuppressWarnings("unused")
+
 			List<FrequenciaTermos> freq = calcularFrequenciaTermos(documentos);
 			
 			
