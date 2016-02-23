@@ -42,7 +42,9 @@ public class CursoController {
 				
 				//calcula o IDF
 				List<IDF> idf = CalcularIdf(docs.size(), docs, listaFrequencias, docs.get(i).getTermo().size());
-					
+				
+				//Calcular TFIDF
+				List<FrequenciaTermos> frequenciaTermos = CalcularTFIDF(tf, idf, docs.get(i).getCurso());
 			}
 			
 		} catch (Exception e) {
@@ -96,10 +98,12 @@ public class CursoController {
 		
 			for (int i = 0; i < listaFrequencias.size(); i++) {
 			
-				String termo = listaFrequencias.get(i).getPalavra();
+				IDF idf = new IDF();
 				int cont = 0;
+
+				String termo = listaFrequencias.get(i).getPalavra();
+				idf.setPalavra(termo);
 				
-				cont = 0;
 				
 				for(int j = 0; j < docs.size(); j++){
 					
@@ -118,32 +122,64 @@ public class CursoController {
 						cont ++;
 					}
 				}
-				System.out.println(termo + " - " + cont);
 				
+				double calculo = Math.log((double)qtdDocumentos/(double)cont);
+				
+				System.out.println("Log("+qtdDocumentos+"/"+cont+") = " + calculo);
+				
+				idf.setIdf(calculo);
+				
+				listIDF.add(idf);
 			}
-				
-			System.out.println("teste");
-			
 		}catch(Exception e){
-			
+			System.out.println("Erro ao calcular IDF: " + e);
 		}
-		
 		
 		return listIDF;
 	}
 	
+	/**
+	 * 
+	 * @param tf
+	 * @param idf
+	 * @param documento
+	 * @return
+	 */
+	public static List<FrequenciaTermos> CalcularTFIDF(List<TF> tf, List<IDF> idf, String documento){
+		
+		List<FrequenciaTermos> freq = new ArrayList<FrequenciaTermos>();
 	
-	public static void idf(List<Documentos> docs, String term) {
-	    double n = 0;
-	    
-	    for (Documentos doc : docs) {
-	        for (String termo : doc.getTermo()) {
-	            System.out.println(termo);
-	        }
-	    }
-	    //return Math.log(docs.size() / n);
+		System.out.println(tf.size());
+		System.out.println(idf.size());
+		
+		
+		
+		for(int i = 0; i < tf.size(); i++){
+			
+			if(tf.get(i).getPalavra().equals(idf.get(i).getPalavra())){
+				FrequenciaTermos obj = new FrequenciaTermos();
+				
+				double tfidf = (tf.get(i).getTF() * idf.get(i).getIdf());
+				
+				obj.setCurso(documento);
+				obj.setFrequencia(tfidf);
+				obj.setPalavra(tf.get(i).getPalavra());
+		
+				System.out.println("Curso"+documento+"/ Frequencia: "+tfidf+"/ Palavra: "+ tf.get(i).getPalavra());
+				
+				freq.add(obj);
+			}
+		}
+		
+		
+		return freq;
 	}
 	
+	/**
+	 * 
+	 * @param lista
+	 * @return
+	 */
 	public static List<FrequenciaPalavraNoDocumento> listaPalavrasIguais(List<String> lista){
 		
 		List<FrequenciaPalavraNoDocumento> frequencia = new ArrayList<FrequenciaPalavraNoDocumento>();
@@ -201,7 +237,7 @@ public class CursoController {
 	 * 				incluindo o prï¿½-processamento dos documentos e a criaï¿½ï¿½o da tabela hash.
 	 * @param		caminho - caminho da pasta de documentos txt
 	 * @return		TRUE tabela hash criada e salva em arquivo
-	 * 				FALSE erro durante a execuï¿½ï¿½o do processo
+	 * 				FALSE erro durante a execução do processo
 	 */
 	public boolean gerarArquivoInvertido(String caminho){
 
@@ -214,8 +250,6 @@ public class CursoController {
 		boolean retorno = false;
 
 		try{
-			
-			
 			
 			//Faz a leitura de todos os arquivos do diretorio
 			List<String> lista = arq.lerDiretorios(caminho);
@@ -246,9 +280,6 @@ public class CursoController {
 
 			List<FrequenciaTermos> freq = calcularFrequenciaTermos(documentos);
 			
-			
-			System.out.println("Teste2");
-	
 			Hashtable<String, ArrayList<FrequenciaTermos>> hashtable = hash.gerarHash(frequenciaDosTermos);
 			
 			retorno = hash.GerarArquivoInvertido(hashtable, caminho);

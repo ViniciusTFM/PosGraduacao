@@ -20,7 +20,7 @@ public class TF {
 		this.palavra = palavra;
 	}
 
-	public double setTF() {
+	public double getTF() {
 		return tf;
 	}
 

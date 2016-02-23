@@ -4,8 +4,8 @@ public class PesoCurso {
 	
 	//atributos
 	private String curso;
-	private int peso;
-	private int pesoPalavras;
+	private double peso;
+	private double pesoPalavras;
 	
 	//construtor
 	public PesoCurso(){
@@ -22,20 +22,20 @@ public class PesoCurso {
 		this.curso = curso;
 	}
 
-	public int getPeso() {
+	public double getPeso() {
 		return peso;
 	}
 
-	public void setPeso(int peso) {
+	public void setPeso(double peso) {
 		this.peso = peso;
 	}
 
-	public int getPesoPalavras() {
+	public double getPesoPalavras() {
 		return pesoPalavras;
 	}
 
-	public void setPesoPalavras(int pesoPalavras) {
-		this.pesoPalavras = pesoPalavras;
+	public void setPesoPalavras(double d) {
+		this.pesoPalavras = d;
 	}
 	
 	

@@ -10,7 +10,7 @@ public class FrequenciaTermos {
 
 	private String curso;
 	private String palavra;
-	private int frequencia;
+	private double frequencia;
 	
 	//Construtor Padrão
 	
@@ -38,11 +38,11 @@ public class FrequenciaTermos {
 		this.palavra = palavra;
 	}
 
-	public int getFrequencia() {
+	public double getFrequencia() {
 		return frequencia;
 	}
 
-	public void setFrequencia(int frequencia) {
+	public void setFrequencia(double frequencia) {
 		this.frequencia = frequencia;
 	}
 	
