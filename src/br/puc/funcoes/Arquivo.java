@@ -165,7 +165,7 @@ public class Arquivo {
                 	indiceHash = campos[0];
                     
                 	ftr.setPalavra(campos[0]);   
-                    ftr.setFrequencia(Integer.parseInt(campos[1]));  
+                    ftr.setFrequencia(Double.parseDouble(campos[1]));  
                     ftr.setCurso(campos[2]);
                     
                     lista.add(ftr);

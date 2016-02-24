@@ -1,0 +1,21 @@
+Público-alvo:
+
+Portadores de diploma de nível superior em Ciência da Computação, Sistemas de Informação, Geografia, Turismo, Economia, Engenharia, Arquitetura e Administração, além de profissionais que desenvolvam ou se utilizem de aplicações de geoprocessamento.
+Objetivo(s):
+
+- Desenvolver habilidades de análise e utilização das tecnologias e metodologias de geoprocessamento aplicáveis aos ambientes organizacionais; 
+- Possibilitar ao aluno o desenvolvimento de estratégias de intervenção em diversas organizações utilizando modelos de localização geográfica e análise espacial;
+- Possibilitar ao aluno melhor conhecimento de áreas de influência/ abrangência e fornecer a ele subsídios para avaliação da qualidade e eficácia de assistência prestada por órgãos públicos e privados.
+
+Programa:
+
+- Aplicações dos SIGs em Estudos Ambientais
+- Aplicações dos SIGs em Estudos Socioespaciais
+- Aplicações dos SIGs no Planejamento Urbano
+- Bancos de Dados Geográficos
+- Geomarketing
+- Introdução ao Geoprocessamento
+- Metodologia da Pesquisa Científica (EAD)*
+- Métodos Quantitativos para Análise Espacial
+- Sensoriamento Remoto
+- WebGIS

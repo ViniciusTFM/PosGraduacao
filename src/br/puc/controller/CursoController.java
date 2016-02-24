@@ -31,6 +31,8 @@ public class CursoController {
 	public static List<FrequenciaTermos> calcularFrequenciaTermos(List<Documentos> docs) {
 
 		
+		List<FrequenciaTermos> frequenciaTermos = new ArrayList<FrequenciaTermos>();
+
 		try {
 			for(int i = 0; i < docs.size(); i++){
 				
@@ -44,14 +46,14 @@ public class CursoController {
 				List<IDF> idf = CalcularIdf(docs.size(), docs, listaFrequencias, docs.get(i).getTermo().size());
 				
 				//Calcular TFIDF
-				List<FrequenciaTermos> frequenciaTermos = CalcularTFIDF(tf, idf, docs.get(i).getCurso());
+				frequenciaTermos = CalcularTFIDF(tf, idf, docs.get(i).getCurso() , frequenciaTermos);
 			}
 			
 		} catch (Exception e) {
 			System.out.println("Erro ao calcular a frequencia dos termos: " + e);
 		}
 
-		return (null);
+		return (frequenciaTermos);
 	}
 
 	/**
@@ -145,15 +147,11 @@ public class CursoController {
 	 * @param documento
 	 * @return
 	 */
-	public static List<FrequenciaTermos> CalcularTFIDF(List<TF> tf, List<IDF> idf, String documento){
+	public static List<FrequenciaTermos> CalcularTFIDF(List<TF> tf, List<IDF> idf, String documento, List<FrequenciaTermos> freq){
 		
-		List<FrequenciaTermos> freq = new ArrayList<FrequenciaTermos>();
-	
 		System.out.println(tf.size());
 		System.out.println(idf.size());
-		
-		
-		
+
 		for(int i = 0; i < tf.size(); i++){
 			
 			if(tf.get(i).getPalavra().equals(idf.get(i).getPalavra())){
@@ -170,7 +168,6 @@ public class CursoController {
 				freq.add(obj);
 			}
 		}
-		
 		
 		return freq;
 	}
@@ -243,7 +240,6 @@ public class CursoController {
 
 		Arquivo arq = new Arquivo();
 		Hash hash = new Hash();
-		List<FrequenciaTermos> frequenciaDosTermos = new ArrayList<FrequenciaTermos>();
 		
 		List<Documentos> documentos = new ArrayList<Documentos>();
 		
@@ -278,7 +274,7 @@ public class CursoController {
 				//frequenciaDosTermos = calcularFrequenciaTermos(listaPalavrasSemStopwords, frequenciaDosTermos,lista.get(i).replaceAll(".txt", ""));
 			}
 
-			List<FrequenciaTermos> freq = calcularFrequenciaTermos(documentos);
+			List<FrequenciaTermos> frequenciaDosTermos = calcularFrequenciaTermos(documentos);
 			
 			Hashtable<String, ArrayList<FrequenciaTermos>> hashtable = hash.gerarHash(frequenciaDosTermos);
 			

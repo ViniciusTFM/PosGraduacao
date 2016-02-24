@@ -1,0 +1,24 @@
+Público-alvo:
+
+Analistas de sistemas e de suporte com formação de nível superior que atuam ou pretendem ingressar na carreira de projetista ou gerente de redes de computadores. Egressos de cursos de Sistemas de Informação, Engenharias, Ciência da Computação e Tecnólogos em nível superior, com desejo de se especializar na área. Profissionais que atuam no segmento, mas que não são formados na área e necessitam consolidar conhecimentos teóricos e práticos.
+Objetivo(s):
+
+Apresentar conceitos, tecnologias, equipamentos, e metodologias de gerência e de gestão relacionados às redes de computadores.
+Programa:
+
+- Administração de Firewall
+- Arquitetura TCP/IP I 
+- Arquitetura TCP/IP II 
+- Cabeamento Estruturado 
+- Computação Móvel
+- Gerência de Projetos
+- Gerência de Redes de Computadores
+- Introdução às Telecomunicações 
+- Laboratório de Wireshark
+- Metodologia da Pesquisa Científica (EAD)*
+- Prática TCP/IP I – Configuração de Switches
+- Prática TCP/IP II – Configuração de Roteadores
+- Projeto de Redes de Computadores
+- Segurança de Redes de Computadores 
+- Serviços de Redes Locais
+- Tecnologias WEB

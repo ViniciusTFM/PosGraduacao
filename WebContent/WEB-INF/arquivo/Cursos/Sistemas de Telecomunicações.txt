@@ -1,0 +1,25 @@
+Público-alvo:
+
+Profissionais com formação de nível superior que atuam direta e indiretamente na área de telecomunicações. Como pré-requisito para se matricularem no curso, os profissionais devem ser graduados em engenharia de telecomunicações, engenharia eletrônica, engenharia elétrica ou em cursos de nível superior (tecnólogos) nas áreas de telecomunicações, de redes de computadores, de processamento e de transmissão de dados.
+Objetivo(s):
+
+Propiciar aos profissionais que atuam direta e indiretamente no mercado de telecomunicações, incluindo os professores de ensino técnico nos níveis médio e superior, atualização técnica e o exercício de suas habilidades oferecendo os requisitos mínimos para suas atualizações curriculares e desenvolvimento profissional, conferindo-lhes após avaliação de aproveitamento, o título de Especialista em Sistemas de Telecomunicações.
+Programa:
+
+- Antenas e Propagação Ondas Eletromagnéticas
+- Arquitetura TCP/IP I 
+- Arquitetura TCP/IP II 
+- Cabeamento Estruturado 
+- Compatibilidade Eletromagnética Aplicada
+- Fundamentos Redes Móveis Celulares
+- Gerenciamento de Projetos de Telecomunicações
+- Infraestrutura Sistemas de Telecomunicações
+- Introdução às Telecomunicações 
+- Metodologia da Pesquisa Científica (EAD)*
+- Norma Regulamentadora 10 - MTE - NR-10
+- Padrões de Telefonia Móvel Celular
+- Regulação das Telecomunicações no Brasil
+- Segurança de Redes de Computadores 
+- Sistemas Ópticos
+- Sistemas Satélites
+- TV Digital
