@@ -37,3 +37,7 @@ p input[type=checkbox]{
     width: auto;
     height: auto;
 }
+
+.botoes{
+	margin-bottom: 40px;
+}

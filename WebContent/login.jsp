@@ -11,7 +11,7 @@
 	<script type="text/javascript" src='js/ct-navbar.js'></script>
 	<script type="text/javascript" src='js/rodape.js'></script>
 	<script type="text/javascript" src='js/Perfil/notificacao_usuario.js' charset="utf-8"></script>
-
+	
 
 	<!-- Estilos CSS -->
 

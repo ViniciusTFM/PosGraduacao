@@ -25,7 +25,7 @@ public class UsuarioDao {
 			
 			Connection con = conexao.obterConexao();
 
-			String sql = "SELECT * FROM TB_COMPETENCIA;";
+			String sql = "SELECT * FROM TB_COMPETENCIA order by competencia;";
 
 			PreparedStatement comando = con.prepareStatement(sql);
 
