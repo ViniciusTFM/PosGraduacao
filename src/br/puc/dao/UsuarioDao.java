@@ -248,4 +248,74 @@ public class UsuarioDao {
 		
 		return retorno;
 	}
+	
+	/**
+	 * 	
+	 * @return
+	 */
+	public static List<Usuario> listarUsuarios(){
+		
+		List<Usuario> lista = new ArrayList<Usuario>();
+		
+		try{
+			
+			Connection con = conexao.obterConexao();
+
+			String sql = "select u.id, u.nome, u.email, c.competencia from tb_usuario u "
+							+ "inner join tb_usuario_competencia uc on (u.id = uc.id_usuario)"
+							+ "inner join tb_competencia c on (c.id = uc.id_competencia)";
+
+			PreparedStatement comando = con.prepareStatement(sql);
+
+			System.out.println(" Executando comando ... ");
+
+			ResultSet resultado = comando.executeQuery();
+
+			System.out.println(" Resultados encontrados : \n");
+			
+			Usuario user = new Usuario();
+			List<String> competencias = new ArrayList<String>();
+			
+			//Montar array: USUARIO/ EMAIL/ LISTA COMPETENCIA/
+			if(resultado.next()){
+				do{
+					if(user.getNome() == ""){
+						user.setNome(resultado.getString("nome"));
+						user.setEmail(resultado.getString("email"));
+					}
+					
+					if(user.getNome() != null){
+						competencias.add(resultado.getString("competencia"));
+					}
+					
+					
+					if(!resultado.getString("nome").equals(user.getNome())){
+						user.setCompetencias(competencias);
+						lista.add(user);
+						
+						user = new Usuario();
+						competencias = new ArrayList<String>();
+						
+					}
+					
+				}
+				while(resultado.next());
+				
+				
+			}else{
+				return(new ArrayList<Usuario>());
+			}
+			user.setCompetencias(competencias);
+			lista.add(user);
+			
+			System.out.println("\nFechando conex�o... ");
+			con.close();
+			
+		}catch(Exception e){
+			System.out.println("Erro ao consultar competencias: " + e);
+		}
+		
+		return lista;
+	}
+
 }

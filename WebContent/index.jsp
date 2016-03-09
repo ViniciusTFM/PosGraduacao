@@ -52,6 +52,12 @@
 		              <h1>Recomendar Curso</h1>
 		            </a>
 		          </div>
+		          
+		          <div class="tile tile-aqua col-md-3 col-xs-12" >
+		          	<a href="RecomendacaoServlet?operacao=RecomendarListaUsuarios" >
+		              <h1>Recomendar todos Usuarios</h1>
+		            </a>
+		          </div>
 		      </div>
 	    </div>
 	    

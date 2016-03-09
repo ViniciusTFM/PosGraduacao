@@ -60,4 +60,11 @@ public class UsuarioController {
 		
 		return lista;
 	}
+	
+	public static List<Usuario> ListarUsuarios(){
+		
+		List<Usuario> lista = UsuarioDao.listarUsuarios();
+		
+		return null;
+	}
 }

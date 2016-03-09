@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import br.puc.controller.RecomendacaoController;
+import br.puc.entidades.Usuario;
 
 /**
  * Servlet implementation class RecomendacaoServlet
@@ -48,8 +49,6 @@ public class RecomendacaoServlet extends HttpServlet {
 	
 				List<String> competencias = (List<String>) session.getAttribute("listaCompetencias");
 				
-				
-						
 				List<String> recomendacao = RecomendacaoController.gerarRecomendacao(competencias, caminho);
 	
 				for(int i = 0; i < recomendacao.size(); i++){
@@ -64,6 +63,24 @@ public class RecomendacaoServlet extends HttpServlet {
 			}catch(Exception e){
 				System.out.println("Erro Servlet recomendação: " + e);
 			}
+		}
+		
+		if(request.getParameter("operacao").equalsIgnoreCase("RecomendarListaUsuarios")){
+			
+			try{
+				ServletContext context = request.getServletContext();
+				String caminho = context.getRealPath("/WEB-INF");
+				
+				List<Usuario> user = RecomendacaoController.ListarRecomendacaoUsuarios(caminho);
+				
+				request.setAttribute("listaRecomendacoesUsuarios", user);  
+				RequestDispatcher rd = request.getRequestDispatcher("/recomendacaoUsuarios.jsp");
+				rd.forward(request, response);
+				
+			}catch(Exception e){
+
+			}
+
 		}
 	}
 

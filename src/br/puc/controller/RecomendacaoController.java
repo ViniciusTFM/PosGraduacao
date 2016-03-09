@@ -6,7 +6,10 @@ import java.util.List;
 
 import br.puc.entidades.FrequenciaTermos;
 import br.puc.entidades.PesoCurso;
+import br.puc.entidades.Usuario;
 import br.puc.funcoes.Arquivo;
+import br.puc.funcoes.PreProcessamento;
+import br.puc.dao.UsuarioDao;
 
 public class RecomendacaoController {
 	
@@ -159,5 +162,32 @@ public class RecomendacaoController {
 		}
 		
 		return cursosRecomendados;
+	}
+
+	
+	
+	/**
+	 * 
+	 * @return
+	 */
+	public static List<Usuario>ListarRecomendacaoUsuarios(String caminho){
+		
+
+		List<Usuario> User = UsuarioDao.listarUsuarios();
+		List<Usuario> listaRecomendacao = new ArrayList<Usuario>();
+		
+		for(int i = 0; i < User.size(); i++){
+			List<String> listaCompetencias = PreProcessamento.normalizarCompetencias(User.get(i).getCompetencias(), caminho);
+			List<String> listaCursos = gerarRecomendacao(listaCompetencias, caminho);
+			
+			Usuario u = new Usuario();
+			u.setCompetencias(listaCursos);
+			u.setEmail(User.get(i).getEmail());
+			u.setNome(User.get(i).getNome());
+			
+			listaRecomendacao.add(u);
+		}
+		
+		return listaRecomendacao;
 	}
 }
