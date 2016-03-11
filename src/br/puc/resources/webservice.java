@@ -1,7 +1,13 @@
-package br.puc.resource;
+package br.puc.resources;
+
+import java.util.List;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
+
+
+import br.puc.dao.UsuarioDao;
+import br.puc.entidades.Usuario;
 
 @Path("/Usuario")
 public class webservice {
@@ -20,10 +26,12 @@ public class webservice {
 
 	@GET
     @Path("/get")
-	@Produces("application/json")
-	public String listar(){
-		return "<p> Java Web Service </p>";   
+	@Produces("application/xml")
+	public List<Usuario> listar(){
 		
+		List<Usuario> list = UsuarioDao.listarUsuarios();
+		
+		return list;
 	}
 	
 }
