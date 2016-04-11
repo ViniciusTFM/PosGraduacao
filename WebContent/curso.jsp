@@ -63,7 +63,7 @@
 					</a>
 				</div>
 
-				<div class="tile tile-blue col-md-3 col-xs-12">
+				<div class="tile tile-clouds col-md-3 col-xs-12">
 					<a href="CursoServlet?operacao=gerarArqInvertido">
 						<h1>Gerar Arquivo Invertido</h1>
 					</a>

@@ -47,17 +47,12 @@
 		          
 		          </div>
 		          
-		          <div class="tile tile-turquoise col-md-3 col-xs-12" >
-		          	<a href="RecomendacaoServlet?operacao=Recomendar" >
-		              <h1>Recomendar Curso</h1>
+		          <div class="tile tile-wet-asphalt col-md-3 col-xs-12" >
+		          	<a href="./recomendacao.jsp" >
+		              <h1>Recomendação</h1>
 		            </a>
 		          </div>
 		          
-		          <div class="tile tile-aqua col-md-3 col-xs-12" >
-		          	<a href="RecomendacaoServlet?operacao=RecomendarListaUsuarios" >
-		              <h1>Recomendar todos Usuarios</h1>
-		            </a>
-		          </div>
 		      </div>
 	    </div>
 	    

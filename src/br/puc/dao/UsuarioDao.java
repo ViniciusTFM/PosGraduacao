@@ -279,15 +279,11 @@ public class UsuarioDao {
 			//Montar array: USUARIO/ EMAIL/ LISTA COMPETENCIA/
 			if(resultado.next()){
 				do{
+					
 					if(user.getNome() == ""){
 						user.setNome(resultado.getString("nome"));
 						user.setEmail(resultado.getString("email"));
 					}
-					
-					if(user.getNome() != null){
-						competencias.add(resultado.getString("competencia"));
-					}
-					
 					
 					if(!resultado.getString("nome").equals(user.getNome())){
 						user.setCompetencias(competencias);
@@ -295,16 +291,19 @@ public class UsuarioDao {
 						
 						user = new Usuario();
 						competencias = new ArrayList<String>();
-						
+					}
+					
+					if(user.getNome() != null){
+						competencias.add(resultado.getString("competencia"));
 					}
 					
 				}
 				while(resultado.next());
 				
-				
 			}else{
 				return(new ArrayList<Usuario>());
 			}
+			
 			user.setCompetencias(competencias);
 			lista.add(user);
 			

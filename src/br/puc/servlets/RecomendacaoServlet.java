@@ -38,8 +38,8 @@ public class RecomendacaoServlet extends HttpServlet {
 			
 			try{
 			
-				//chamar a função da recomendação e passar lista para a jsp
-				//criar a jsp da recomendação
+				//chamar a funï¿½ï¿½o da recomendaï¿½ï¿½o e passar lista para a jsp
+				//criar a jsp da recomendaï¿½ï¿½o
 				
 				//recupera o caminho dos arquivos
 				ServletContext context = request.getServletContext();
@@ -56,12 +56,12 @@ public class RecomendacaoServlet extends HttpServlet {
 				}
 				
 				request.setAttribute("listaRecomendacoes", recomendacao);  
-				RequestDispatcher rd = request.getRequestDispatcher("/recomendacao.jsp");
+				RequestDispatcher rd = request.getRequestDispatcher("/gerar_recomendacao.jsp");
 				rd.forward(request, response);
 				
 				//response.sendRedirect("recomendacao.jsp");
 			}catch(Exception e){
-				System.out.println("Erro Servlet recomendação: " + e);
+				System.out.println("Erro Servlet recomendaï¿½ï¿½o: " + e);
 			}
 		}
 		

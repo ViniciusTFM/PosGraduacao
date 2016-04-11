@@ -7,7 +7,7 @@
 <%@ page language="java" import="br.puc.controller.UsuarioController"%>
 
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="en">
 
 <head>
 
@@ -42,50 +42,65 @@
 
 	<div class="container" style="margin-top: 150px">
 
-		<form class="form-horizontal" name="cadastro_usuarios" action="UsuarioServlet" method="post">
+		<form class="form-horizontal" name="cadastro_usuarios"
+			action="UsuarioServlet" method="post">
 
 			<fieldset>
-				<legend>Lista Recomendação para Usuarios</legend>
+				<legend>Recomendação</legend>
 
 				<div class="form-group">
 
-				<div class="panel panel-primary">
-					<div class="panel-heading">Recomendações</div>
-						<div class="panel-body" style="padding: 0px;">
-  				
-								<table class="table">
-								    <tr>
-								        <th>Usuario</th>
-								        <th>Email</th>
-								        <th colspan="4">Recomendações</th>
-								    </tr>
-								   
-									<c:forEach var="value" items="${listaRecomendacoesUsuarios}" varStatus="key">
-				
-									      <tr>
-								       		<td ><c:out value="${value.nome}"></c:out></td>
-									        <td ><c:out value="${value.email}"></c:out></td>
-									       	
-									       	<c:forEach var="competencias" items="${value.competencias}">
-									       		<td><c:out value="${competencias}"></c:out></td>
-									        </c:forEach>
-									      </tr>
-				
-									</c:forEach>
-			
-								</table>
-					
-					  
-					  		</div>
-						</div>
-					</div>
-	
+					<%
+						int teste = 0;
+					%>
 
-					<div class="control-group">
-						<div class="controls">
-							<button class="btn btn-info" type="button" onclick="window.location.href='/PosGraduacaoRecommander/recomendacao.jsp'">Voltar</button>
-						</div>
+					<c:forEach var="value" items="${listaRecomendacoes}"
+						varStatus="key">
+
+						<c:if test="${key.index == 0}">
+
+							<h3>O curso mais recomendado para o seu perfil é:</h3>
+
+							<hr>
+
+							<li class="list-group-item">
+								<h5>
+									<c:out value="${value}"></c:out>
+								</h5>
+							</li>
+
+							<br>
+						</c:if>
+						<%
+							if (teste == 0) {
+									teste = 1;
+									out.print("<h3>Outros cursos recomendados para você: </h3>");
+									out.print("<hr><ul class='list-group'>");
+								}
+						%>
+
+						<c:if test="${key.index > 0}">
+
+							<li class="list-group-item">
+								<h5>
+									<c:out value="${value}"></c:out>
+								</h5>
+							</li>
+
+							<br>
+						</c:if>
+
+					</c:forEach>
+
+					</ul>
+
+
+				<div class="control-group">
+					<div class="controls">
+						<br> <br> <input type="hidden" name="operacao" value="incluir" />
+						<button class="btn btn-info" type="button" onclick="window.location.href='/PosGraduacaoRecommander/recomendacao.jsp'">Voltar</button>
 					</div>
+				</div>
 
 					
 				</div>
