@@ -39,7 +39,7 @@
 		<form class="form-horizontal" name="cadastro_cursos" action="CursoServlet" method="post">
 
 			<fieldset>
-				<legend>Cadastro de Usuário</legend>
+				<legend>Cadastro de Cursos</legend>
 
 				<div class="form-group">
 					<label class="control-label" for="inputNome">Curso:</label>

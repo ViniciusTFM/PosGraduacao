@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<title>Login | PosGraduacaoRecommander</title>
+	<title>Login | Post Graduate Recommendation </title>
 
 	<!-- Bibliotecas JavaScript -->
 
@@ -77,6 +77,33 @@
 						Criar uma nova conta
 					</a>
             
+        		</div>
+        		<div  class="col-md-9 col-xs-12">
+	        		
+	        		<div style="padding: 10px;">
+	        			<p style="font-size: 24px;">
+			        		
+			        		<span style="padding-left:3em">
+			        		O sistema de recomendação <i>PosGraduacaoRecommander</i> foi criado com o intuito de recomendar 
+			        		cursos de Pós-Graduação de acordo com as competências do usuário.
+							</span>
+
+							<br>
+
+			        		<span style="padding-left:3em">
+			        		As competências são cadastradas junto ao perfil do usuário e elas são utilizadas para fazer o cruzamento de dados
+			        		com a descrição dos cursos de Pós-Graduação da Puc Minas.
+							</span>										        		
+			        		
+			        		<br>
+
+			        		<span style="padding-left:3em">
+			        		O resultado do cruzamento das competências com os dados do curso é a recomendação dos quatro cursos que mais semelhantes 
+			        		aos dados cadastrados.
+							</span>
+	        			</p>
+	        		</div>
+        		
         		</div>
 			</div>
 		</div><!-- //row -->

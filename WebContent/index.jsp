@@ -48,6 +48,7 @@
 		          </div>
 		          
 		          <div class="tile tile-wet-asphalt col-md-3 col-xs-12" >
+		          	<span class="glyphicon glyphicon-music"></span>
 		          	<a href="./recomendacao.jsp" >
 		              <h1>Recomendação</h1>
 		            </a>

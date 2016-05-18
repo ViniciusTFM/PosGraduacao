@@ -96,13 +96,15 @@
 
 
 				<div class="control-group">
-					<div class="controls">
-						<br> <br> <input type="hidden" name="operacao" value="incluir" />
-						<button class="btn btn-info" type="button" onclick="window.location.href='/PosGraduacaoRecommander/recomendacao.jsp'">Voltar</button>
+					<div class="controls" align="center">
+						<br> <input type="hidden" name="operacao" value="incluir" />
+						<a href="https://docs.google.com/forms/d/1AEq0KxdXMPWZqj9DiBKrC6F51MvyjxUPjhOOy8Pgx8s/viewform" target="_blank">
+							<button class="btn btn-info" type="button">Clique aqui para responder nossa pesquisa de satisfação..</button>
+						</a>
 					</div>
 				</div>
 
-					
+					<br><br>					
 				</div>
 				
 			</fieldset>
