@@ -7,7 +7,7 @@ Trabalho de Conclusão de Curso - Sistemas de Informação - PucMinas 1/2016
 Implementação de um sistema de recomendação utilizando a filtragem baseada em conteúdo para auxiliar profissionais na escolha de cursos de pós-graduação de acordo com seu perfil. 
 
 
-Técnologias utilizadas:
+Tecnologias utilizadas:
  <ul>
   <li>Java Web </li>
   <li>Bootstrap </li>
